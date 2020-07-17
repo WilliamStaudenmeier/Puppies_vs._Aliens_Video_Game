@@ -1,6 +1,8 @@
 # Puppies_vs._Aliens_Video_Game
 Classic arcade game using PyGame and Python
 
-Create a folder on your desktop.  Download the script, and save it in the folder.  Then create two folders in the first folder, one for the images called "images" and the second for the sounds called "sounds."  Once you've installed the packages, it should run as is.  
+Did you know that climatologists are beginning to use #artificialintelligence and #machinelearning to fine tune their climate models? According to one such model by NOAA: National Oceanic & Atmospheric Administration, the world's sea level could rise by as much as six meters in the next 80 years as a result of global warming.
 
-If you want to create your own video game, I recommend googling free sprites.  There are lots of free sprites out there that you can use to replace the images in this game and create your own video game from this template.  You can change the music, and mess around with the format however you want. Enjoy!
+This past weekend, my friend Krishangi Deka and I built a computer simulation to see what six meters of difference might look like across the world. Krishangi is a data scientist and a student at the University of Illinois working part-time at Clean My Planet.
+
+From an #r #programming perspective, you can use the #elevatr package to pull #geospatialdata for any lat/long coordinates in the world and #rayshader to simulate different scenarios.
