@@ -1,6 +1,6 @@
 # Puppies_vs._Aliens_Video_Game
 
-Classic arcade game using PyGame and Python
+Classic arcade game using PyGame and Python.
 
 Runs on Python3.  Just install PyGame.  
 
